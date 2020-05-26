@@ -1,4 +1,15 @@
 library(aomisc)
+library(shiny)
+library(shinydashboard)
+library(dashboardthemes)
+library(shinyWidgets)
+library(esquisse)
+library(tidyverse)
+library(motr)
+library(rio)
+library(shinyjs)
+library(colourpicker)
+
 
 analyze_motility <- function(data, cutoff){
 
