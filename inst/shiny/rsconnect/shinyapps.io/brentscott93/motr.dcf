@@ -1,0 +1,12 @@
+name: motr
+title: motr
+username:
+account: brentscott93
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2358095
+bundleId: 3191124
+url: https://brentscott93.shinyapps.io/motr/
+when: 1590500721.94281
+asMultiple: FALSE
+asStatic: FALSE

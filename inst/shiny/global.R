@@ -1,3 +1,5 @@
+library(aomisc)
+
 analyze_motility <- function(data, cutoff){
 
   #calculates average velocity
